@@ -1,68 +1,44 @@
-
-
 {
-  "Posts": [
+  "posts": [
     {
-      "id": 1,
+      "id": 3,
       "name": "Woody",
-      "Post" : "text",
+      "post": "basket ball played with feet only",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8,
-      "Dislikes": 9,
-      "Catagory" : "cats",
-      "Comments": [
-        "bullshit"
-      ]
+      "likes": 9,
+      "dislikes": 9,
+      "catagory": "cats",
+      "comments": [
+        "It's flat! Just the way I like it!!",
+        "Is this the real beer, is this just fantasy?",
+        "I've always hated bubbles going up my nose, so this is absolutely delightful.",
+        "Flat straight out of the bottle! No more waiting for the fizziness to subside. Thank you FlattaBeer!! I love you!!!",
+        "is this good enough",
+        "hey",
+        "howdy",
+        "not really?",
+        "what's up"
+      ],
+      "Dislikes": -4
     },
     {
-      "id": 1,
-      "name": "Woody",
-      "Post" : "text",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8,
-      "Dislikes": 9,
-      "Catagory" : "cats",
-      "Comments": [
-        "bullshit"
-      ]
+      "name": "Girl turns to plastic",
+      "post": "doctors working on a cure",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51eIaWvY0WL._AC_SY879_.jpg",
+      "likes": 1,
+      "dislikes": -3,
+      "comments": [],
+      "id": 5,
+      "Dislikes": null
     },
     {
-      "id": 1,
-      "name": "Woody",
-      "Post" : "text",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8,
-      "Dislikes": 9,
-      "Catagory" : "cats",
-      "Comments": [
-        "bullshit"
-      ]
-    },
-    {
-      "id": 1,
-      "name": "Woody",
-      "Post" : "text",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8,
-      "Dislikes": 9,
-      "Catagory" : "cats",
-      "Comments": [
-        "bullshit"
-      ]
-    },
-    {
-      "id": 1,
-      "name": "Woody",
-      "Post" : "text",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8,
-      "Dislikes": 9,
-      "Catagory" : "cats",
-      "Comments": [
-        "bullshit"
-      ]
+      "name": "Shoes get covid",
+      "post": "Scientists working on vaccine",
+      "image": "https://i.blogs.es/8f4bcb/toallin/450_1000.jpg",
+      "likes": 1,
+      "dislikes": -2,
+      "comments": [],
+      "id": 6
     }
   ]
 }
-    
-  
