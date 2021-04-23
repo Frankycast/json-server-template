@@ -1,68 +1,39 @@
-
-
 {
-  "Posts": [
+  "posts": [
     {
-      "id": 1,
-      "name": "Woody",
-      "Post" : "text",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8,
-      "Dislikes": 9,
-      "Catagory" : "cats",
-      "Comments": [
-        "bullshit"
-      ]
+      "name": "Girl turns to plastic",
+      "post": "doctors working on a cure",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51eIaWvY0WL._AC_SY879_.jpg",
+      "likes": 1,
+      "dislikes": -3,
+      "comments": [
+        "how's it going",
+        "yo"
+      ],
+      "id": 5,
+      "Dislikes": null
     },
     {
-      "id": 1,
-      "name": "Woody",
-      "Post" : "text",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8,
-      "Dislikes": 9,
-      "Catagory" : "cats",
-      "Comments": [
-        "bullshit"
-      ]
+      "name": "Shoes get covid",
+      "post": "Scientists working on vaccine",
+      "image": "https://i.blogs.es/8f4bcb/toallin/450_1000.jpg",
+      "likes": 1,
+      "dislikes": -2,
+      "comments": [
+        "hey",
+        "hi",
+        "this works now"
+      ],
+      "id": 6
     },
     {
-      "id": 1,
-      "name": "Woody",
-      "Post" : "text",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8,
-      "Dislikes": 9,
-      "Catagory" : "cats",
-      "Comments": [
-        "bullshit"
-      ]
-    },
-    {
-      "id": 1,
-      "name": "Woody",
-      "Post" : "text",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8,
-      "Dislikes": 9,
-      "Catagory" : "cats",
-      "Comments": [
-        "bullshit"
-      ]
-    },
-    {
-      "id": 1,
-      "name": "Woody",
-      "Post" : "text",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8,
-      "Dislikes": 9,
-      "Catagory" : "cats",
-      "Comments": [
-        "bullshit"
-      ]
+      "name": "NYC pizza turns teenagers into mutant turtle!!!",
+      "post": "Pizza stocks are up!",
+      "image": "https://movie-fanatic-res.cloudinary.com/iu/s--q1tIYsBk--/f_auto,q_auto/v1405096165/teenage-mutant-ninja-turtles-pizza",
+      "likes": 0,
+      "dislikes": 0,
+      "comments": [],
+      "id": 7
     }
   ]
 }
-    
-  
